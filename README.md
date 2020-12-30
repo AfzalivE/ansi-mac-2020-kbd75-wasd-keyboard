@@ -3,7 +3,7 @@
 After a lot of searching for KBD75/YMD75 keycaps with Mac legends, I decided to create my own layout.
 
 I tried to mimic Apple's M1 Macbook Air (2020) keyboard as closely as possible but KBD75 has 1u keys to the right of the spacebar.
-
+Font used is SF Compact Rounded (in most places except the $ symbol, which is SF Pro Rounded).
 
 - New F4 (spotlight), F5 (dictation), and F6 (Do not disturb) icons
 - F13 with bulb icon for any custom lighting toggles
